@@ -8,7 +8,7 @@
 
 - [MIUIX](https://github.com/compose-miuix-ui/miuix) (Apache-2.0 License) - 提供 UI 组件与设计参考。
 
-## 构建
+## 源码
 
 - [源码](https://github.com/jj-m-j/douyin-unlimit)
 
